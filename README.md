@@ -6,7 +6,7 @@ This project is a personal portfolio website built with React. It features a sim
 ## Installation
 1. Clone the repository
     ```bash
-    git clone https://github.com/username/react-portfolio.git
+    git clone https://github.com/Hharsh0805/react-portfolio.git
     ```
 2. Navigate to the project directory
     ```bash
